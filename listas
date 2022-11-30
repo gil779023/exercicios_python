@@ -1,0 +1,8 @@
+v = [7,1,2,3,4,5]
+v.append(6)
+v.sort()#ordena em ordem crescente uma lista
+v.extend(['a','b'])#adicionar uma lista a outra
+print(v)
+
+
+
